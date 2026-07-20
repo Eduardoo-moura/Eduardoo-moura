@@ -107,19 +107,3 @@ Atualmente focado em <strong>C#/.NET</strong>, <strong>ASP.NET Core</strong>, <s
 # 🎯 Objetivo
 
 Busco uma oportunidade como **Desenvolvedor Backend C#/.NET Júnior**, onde possa aplicar minha experiência em tecnologia, desenvolver soluções escaláveis e evoluir continuamente como engenheiro de software.
-
----
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight"/>
-
-</p>
