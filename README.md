@@ -11,11 +11,11 @@ Atualmente focado em <strong>C#/.NET</strong>, <strong>ASP.NET Core</strong>, <s
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/eduardo-monteiro-moura">
 <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Monteiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:eduardo.monteiro.moura1@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contato-1D3557?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
