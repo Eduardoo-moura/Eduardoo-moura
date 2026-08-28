@@ -3,7 +3,7 @@
 <h3 align="center">Backend Developer | C#/.NET</h3>
 
 <p align="center">
-Profissional de TI com mais de 6 anos de experiência em suporte corporativo, ERP, banco de dados e infraestrutura, em transição para Desenvolvimento Backend.
+Profissional de TI com mais de 7 anos de experiência em suporte corporativo, ERP, banco de dados e infraestrutura, em transição para Desenvolvimento Backend.
 </p>
 
 <p align="center">
